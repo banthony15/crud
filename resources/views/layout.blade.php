@@ -64,7 +64,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
-				<h1 class="page-header text-center">Crud Laravel CICPC 5.4</h1>				
+				<h1 class="page-header text-center"> CRUD9 Crud Laravel CICPC 5.4</h1>				
 			</div>
 
 
